@@ -1,12 +1,15 @@
-# Compton
-1. An online shopping site (kixif)
-# Libraries
-1. custom.css
-2. animate.css
-3. google fonts
-# contains
-1. registration and log in button
-2. search 
-3. shop category
-4. couresell
+# kilimall
+An online shopping store.It contains all the products available for sale(weekly updates)
+# libraries
+animate.css
+bootstrap
+## Technology used
+1. Html 5
+2. css3
+3. Javascript
+### Fonts
+Google Fonts
+## Images
+Images used are from https://unsplash.com
+
 
